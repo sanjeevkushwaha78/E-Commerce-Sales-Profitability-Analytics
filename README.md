@@ -57,4 +57,7 @@ git clone https://github.com/sanjeevkushwaha78/E-Commerce-Sales-Profitability-An
 cd ecommerce-sales-analytics
 pip install -r requirements.txt
 jupyter lab
+
+## 👤 Author
+**Sanjeev** — [GitHub](https://github.com/<sanjeevkushwaha78>)
 ```
