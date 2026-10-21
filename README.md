@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Sales & Profitability Analytics
 
-End-to-end data analytics project using **MySQL, Python (pandas, SciPy, scikit-learn) and Power BI**. It answers where an online retailer makes and loses money across products, regions, discounts and returns.
+End-to-end data analytics project using **MySQL, Python (pandas, SciPy, scikit-learn) ,Statics,and Power BI**. It answers where an online retailer makes and loses money across products, regions, discounts and returns.
 
 ## 📌 Project Overview
 - **Dataset:** 1,000 customers, 82 products, 5,000 orders, 12,558 order line items (Jan 2024 – Jul 2026)
